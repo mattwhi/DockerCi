@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mattwhi/DockerCi#readme",
   "dependencies": {
     "bootstrap": "^4.1.1",
-    "npm": "^6.1.0"
+    "jquery": "^3.3.1",
+    "npm": "^6.1.0",
+    "popper": "^1.0.1"
   }
 }
